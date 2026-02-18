@@ -19,21 +19,21 @@ export const NEWS = [
     tag: "ПЕРЕМОГА",
     title: "ДНІПРОГЕС: ЕНЕРГІЯ МАЙБУТНЬОГО",
     excerpt: "Води сивого Дніпра скорені волею пролетаріату! Найпотужніша гідроелектростанція Європи дала перший струм.",
-    image: "/img/dnipro.jpg"
+    image: "/soviet-industrial/img/dnipro.jpg"
   },
   {
     id: 2,
     tag: "СЕЛО",
     title: "КУРКУЛЯ ЗНИЩЕНО ЯК КЛАС!",
     excerpt: "Суцільна колективізація завершується тріумфом. Одноосібники масово вступають до колгоспів.",
-    image: "/img/kolhosp.jpg"
+    image: "/soviet-industrial/img/kolhosp.jpg"
   },
   {
     id: 3,
     tag: "РЕКОРД",
     title: "ПОДВИГ СТАХАНОВА",
     excerpt: "Шахтар Олексій Стаханов показав усьому світові, на що здатен вільний радянський робітник. 14 норм за зміну!",
-    image: "/img/stakhanov.jpg"
+    image: "/soviet-industrial/img/stakhanov.jpg"
   }
 ];
 
@@ -43,21 +43,21 @@ export const HEROES = [
     name: "Іван Коваль",
     role: "Ударник заводу",
     desc: "Особисто зібрав 500-й трактор.",
-    image: "/img/worker.jpg"
+    image: "/soviet-industrial/img/worker.jpg"
   },
   {
     id: 2,
     name: "Марія Демченко",
     role: "Ланкова",
     desc: "Виростила рекордний врожай.",
-    image: "/img/woman.jpg"
+    image: "/soviet-industrial/img/woman.jpg"
   },
   {
     id: 3,
     name: "Петро Кресляр",
     role: "Інженер",
     desc: "Розробив план модернізації.",
-    image: "/img/engineer.jpg"
+    image: "/soviet-industrial/img/engineer.jpg"
   }
 ];
 

@@ -18,7 +18,7 @@ export const Hero = () => (
       <motion.div initial={{ opacity: 0, scale: 0.9 }} animate={{ opacity: 1, scale: 1 }} transition={{ delay: 0.2 }} className="relative mt-8 lg:mt-0">
         <div className="absolute inset-0 border-4 border-soviet-dark translate-x-2 translate-y-2 md:translate-x-4 md:translate-y-4"></div>
         <img 
-          src="/img/hero.jpg" 
+          src="/soviet-industrial/img/hero.jpg" 
           className="relative z-10 w-full h-auto object-contain grayscale contrast-125 border-4 border-soviet-dark shadow-[5px_5px_0_0_rgba(18,18,18,0.2)] md:shadow-[10px_10px_0_0_rgba(18,18,18,0.2)]" 
           alt="Propaganda" 
         />
